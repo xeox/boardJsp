@@ -1,11 +1,11 @@
 # Today I learned
-
 ## 20181220
+*BeanClass
+*Table
+*Dao
 
-### JSP
-Hello!
 
-*Java
-*JSP
-*Tomcat
-*Toad
+### tomorrow
+## 20181221
+*Dao
+*BoardWriteForm
